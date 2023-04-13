@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T16:47:12.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="mv6rKh1Lv-oUdEwjjUdH" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T16:50:50.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="iWubko-l4h910DivJEKT" version="21.1.5" type="github">
   <diagram name="Страница 1" id="2GnRgFlwrSrR2_h2t6gU">
-    <mxGraphModel dx="918" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,47 +383,47 @@
           <mxGeometry x="4135" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hCjjzOcsvKE_SeXPQG_O-129" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4460" y="83" width="120" height="60" as="geometry" />
+          <mxGeometry x="4365" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hCjjzOcsvKE_SeXPQG_O-130" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hCjjzOcsvKE_SeXPQG_O-129">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4460" y="220" as="sourcePoint" />
-            <mxPoint x="4720" y="270" as="targetPoint" />
+            <mxPoint x="4365" y="192" as="sourcePoint" />
+            <mxPoint x="4625" y="242" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="4720" y="113" />
+              <mxPoint x="4625" y="85" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hCjjzOcsvKE_SeXPQG_O-131" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hCjjzOcsvKE_SeXPQG_O-129">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4460" y="220" as="sourcePoint" />
-            <mxPoint x="4360" y="270" as="targetPoint" />
+            <mxPoint x="4365" y="192" as="sourcePoint" />
+            <mxPoint x="4265" y="242" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="4360" y="113" />
+              <mxPoint x="4265" y="85" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hCjjzOcsvKE_SeXPQG_O-132" value="Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4300" y="273" width="120" height="60" as="geometry" />
+          <mxGeometry x="4205" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hCjjzOcsvKE_SeXPQG_O-133" value="View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4660" y="273" width="120" height="60" as="geometry" />
+          <mxGeometry x="4565" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hCjjzOcsvKE_SeXPQG_O-134" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjzOcsvKE_SeXPQG_O-132" target="hCjjzOcsvKE_SeXPQG_O-129">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4530" y="230" as="sourcePoint" />
-            <mxPoint x="4580" y="180" as="targetPoint" />
+            <mxPoint x="4435" y="202" as="sourcePoint" />
+            <mxPoint x="4485" y="152" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="4300" y="83" />
+              <mxPoint x="4205" y="55" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hCjjzOcsvKE_SeXPQG_O-135" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjzOcsvKE_SeXPQG_O-129" target="hCjjzOcsvKE_SeXPQG_O-133">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4530" y="230" as="sourcePoint" />
-            <mxPoint x="4580" y="180" as="targetPoint" />
+            <mxPoint x="4435" y="202" as="sourcePoint" />
+            <mxPoint x="4485" y="152" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="4780" y="83" />
+              <mxPoint x="4685" y="55" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -530,13 +530,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hCjjzOcsvKE_SeXPQG_O-177" value="Модель - отдельные данные, которые&lt;br&gt;могут искать объекты, подающие запросы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4230" y="333" width="260" height="40" as="geometry" />
+          <mxGeometry x="4135" y="305" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hCjjzOcsvKE_SeXPQG_O-178" value="Представление - объекты (пользователи),&lt;br&gt;которые взаимодействуют с программой.&lt;br&gt;Могут быть экраном, меню, диалоговым окном." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4575" y="333" width="290" height="60" as="geometry" />
+          <mxGeometry x="4480" y="305" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hCjjzOcsvKE_SeXPQG_O-179" value="Контролер/Объекты управления - бизнес объекты,&lt;br&gt;бизнес серверы, где фиксируются определённые&lt;br&gt;правила, данные запросов и ответов, чтобы они&lt;br&gt;могли быть в приемлемом виде представлены пользователю." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4350" y="140" width="370" height="70" as="geometry" />
+          <mxGeometry x="4255" y="112" width="370" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjjzOcsvKE_SeXPQG_O-180" value="1) Пользователю могу общаться только&lt;br&gt;с представлениями&lt;br&gt;2) Граничные объекты могут &lt;br&gt;взаимодействовать только &lt;br&gt;с контролером и с актером&lt;br&gt;3) Сущностные объекты могут&lt;br&gt;взаимодействовать только с контролером&lt;br&gt;4) Контролеры могут взаимодействовать как&lt;br&gt;с граничные объектами, и сущностными&lt;br&gt;объектами, и с другими контролерами,&lt;br&gt;но не с пользователем напрямую" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4685" y="28" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjjzOcsvKE_SeXPQG_O-181" value="Пограничные объекты/представления" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4320" y="510" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjjzOcsvKE_SeXPQG_O-182" value="Сущностные объекты" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4820" y="510" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjjzOcsvKE_SeXPQG_O-183" value="Объекты управления" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4619.99" y="510" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
